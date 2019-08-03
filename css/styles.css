@@ -1,3 +1,15 @@
+body{
+    scroll-behavior: smooth;
+}
 nav{
     background-color: green;
+}
+.bck{
+    background-image: url('../images/potato\ 5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 1;
+    height: 400px;
+    width: 100%;
 }
