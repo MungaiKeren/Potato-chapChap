@@ -4,6 +4,14 @@ body{
 nav{
     background-color: green;
 }
+#logo{
+    height: 100px;
+    width: 100px;
+}
+ul{
+    margin-left: 20%;  
+}
+ul>
 .bck{
     background-image: url('../images/potato\ 5.jpg');
     background-size: cover;
