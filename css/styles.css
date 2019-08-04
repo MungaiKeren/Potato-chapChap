@@ -5,13 +5,15 @@ nav{
     background-color: green;
 }
 #logo{
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
 }
 ul{
     margin-left: 20%;  
 }
-ul>
+ul>li{
+    padding: 18px;
+}
 .bck{
     background-image: url('../images/potato\ 5.jpg');
     background-size: cover;
