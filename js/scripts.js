@@ -1,6 +1,7 @@
 $(document).ready(function(){
-    $('form#form').submit(function(){
-        $('form#form').hide();
-        $('#p').text("We have recieved your response thank you for reaching out to us!")
-    })
-})
+    $('form#feedback').submit(function(){
+        $('form#feedback').hide();
+        $('p.feed').hide();
+        $('#write').text("Thank you for your feedback!");
+    });
+});
