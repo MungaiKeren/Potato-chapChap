@@ -24,9 +24,38 @@ ul>li{
     background-repeat: no-repeat;
     background-attachment: fixed;
     opacity: 1;
-    height: 400px;
+    height: 200px;
     width: 100%;
 }
 #potato{
     font-family: 'Allerta Stencil', sans-serif;
+}
+p#p{
+    color: white;
+    font-size: 24px;
+}
+textarea{
+    width: 100%;
+}
+.mapouter {
+    position: relative;
+    text-align: left;
+    height: 200px;
+    width: 200px;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 200px;
+    width: 200px;
+}
+#spin{
+    color: white;
+    margin-left: 60%;
+}
+i:hover{
+    color: green !important;
+}
+#color{
+    color: white;
 }
