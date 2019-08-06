@@ -2,7 +2,7 @@ body{
     scroll-behavior: smooth;
 }
 nav{
-    background-color: green;
+    background-color: #5cb85c;
     height: 60px;
 }
 #logo{
